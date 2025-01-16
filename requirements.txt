@@ -1,0 +1,7 @@
+psutil
+pymediainfo
+python-dateutil
+pyudev
+pyyaml
+requests
+watchdog
